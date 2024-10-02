@@ -32,7 +32,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 - Which zone recorded the highest and lowest number of sales
 
 ### Data Analysis
-This is where we include some basic lines of code or queries during my analysis;
+This is where we include some basic EXCEL functions used during my analysis;
 
 ```EXCEL
 LARGE MAX MIN SUM MAXIF MINIF
