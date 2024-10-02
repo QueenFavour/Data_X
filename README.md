@@ -37,3 +37,4 @@ This is where we include some basic EXCEL functions used during my analysis;
 ```EXCEL
 LARGE MAX MIN SUM MAXIF MINIF
 ```
+### Data Visualisation
