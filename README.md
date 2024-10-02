@@ -38,3 +38,4 @@ This is where we include some basic EXCEL functions used during my analysis;
 LARGE MAX MIN SUM MAXIF MINIF
 ```
 ### Data Visualisation
+https://github.com/QueenFavour/Data_X/blob/main/Share%20Pivot%20Tables%20File.xlsx
