@@ -1,5 +1,4 @@
 ### Data_X
-
 My first Project Using Pivot tables for data reporting and data visualization
 
 ### Project Title: E-commerce sales Analysis
@@ -9,3 +8,13 @@ This Data Analysis project aims to generate insight into E-commerce sales over t
 
 ### Data Source
 The primary data used here is pivot tables.xlsx and this is an open data source which can be downloaded from kaggle or any data repository site.
+
+### Tools Used
+
+- Microsoft Excel [download here](https://www.microsoft.com)
+  1. For data cleaning
+  2. For Analysis
+  3. For data Visualisation
+     
+- SQL - Structured Query language
+- Github for portfolio building
