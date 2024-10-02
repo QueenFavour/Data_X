@@ -1,7 +1,21 @@
 ### Data_X
-My first Project Using Pivot tables for data cleaning and data preparation
+My first Project Using Pivot tables for data cleaning and data preparation 
 
-### Project Title: E-commerce sales Analysis
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+
+
+### Project Title: E-commerce sales Analysis  
 
 ### Project overview
 This Data Analysis project aims to generate insight into E-commerce sales over the past year. By analysing the variables in the data set received, we seek to gather insights to make informed decisions which will enable us to report data performance
@@ -39,3 +53,6 @@ LARGE MAX MIN SUM MAXIF MINIF
 ```
 ### Data Visualisation
 https://github.com/QueenFavour/Data_X/blob/main/Share%20Pivot%20Tables%20File.xlsx
+
+🧑‍💻
+💻
