@@ -1,5 +1,5 @@
 ### Data_X
-My first Project Using Pivot tables for data reporting and data visualization
+My first Project Using Pivot tables for data cleaning and data preparation
 
 ### Project Title: E-commerce sales Analysis
 
@@ -18,3 +18,22 @@ The primary data used here is pivot tables.xlsx and this is an open data source 
      
 - SQL - Structured Query language
 - Github for portfolio building
+
+### Data Cleaning and Preparations
+in the initial phase of the data cleaning and preparations, we perform the following actions;
+   1. Data loading and inspection
+   2. Handling missing variables
+   3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+- What is the overall sales trend
+- Which products are top sellers
+- Which zone recorded the highest and lowest number of sales
+
+### Data Analysis
+This is where we include some basic lines of code or queries during my analysis;
+
+```EXCEL
+LARGE MAX MIN SUM MAXIF MINIF
+```
